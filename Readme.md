@@ -1,6 +1,10 @@
 
 # bestjs游戏脚本框架（基于Auto.js）
 
+### 项目地址
+* [github](https://github.com/bestjs-admin/bestjs_gameframework)
+* [gitee](https://gitee.com/lc6a/bestjs_gameframework)
+
 ### 常规开发游戏脚本的问题
 1. 直接开发脚本对于延时时间不好把握，需要大量使用循环判断；
 2. 开发时找多点颜色工作量大，相关工具少；
